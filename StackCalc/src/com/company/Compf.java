@@ -3,7 +3,7 @@ package com.company;
 import java.util.Scanner;
 
 public class Compf extends Stack{
-    // Типы символов (скобки, знаки операции, иное).
+    // Типы символов (скобки, знаки операции, прочее)
     Scanner scan = new Scanner(System.in);
     protected final static int SYM_LEFT = 0,
             SYM_RIGHT = 1,
